@@ -4,7 +4,7 @@ Permainan ZigZag untuk perangakat mobile (Android)
 
 ## Persiapan penggunaan
 
-2. Unduh file `ZigZag.apk` pada direktori utama, install dan jalankan pada perangkat Android
+1. Unduh file `ZigZag.apk` pada direktori utama, install dan jalankan pada perangkat Android
 
 ## Detail
 
