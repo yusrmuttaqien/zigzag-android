@@ -10,4 +10,4 @@ Permainan ZigZag untuk perangakat mobile (Android)
 
 - Permainan dibuat menggunakan Unity.
 
-- Permainan dibuat oleh [drDhemm](https://github.com/DrDhemm). 2019
+- Permainan dibuat oleh [drDhemm](https://github.com/yusrmuttaqien). 2019
